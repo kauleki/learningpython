@@ -1,0 +1,11 @@
+Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin using basic input and output, variables, and operators.
+Write a script that calculates Body Mass Index (BMI) from user input (height and weight) using variables, data types, and operators.
+Develop a basic calculator that performs addition, subtraction, multiplication, and division based on user input.
+Write a script that calculates the tip amount based on the bill total and desired tip percentage entered by the user.
+Create a simple password generator
+Write a program that calculates a user's age based on their birth year.
+Create a program that calculates simple interest based on user input for principal, rate, and time.
+Develop a script that converts distances between kilometers, miles, and meters based on user input.
+Create a basic currency converter that takes user input for the amount and converts it between predefined currencies (e.g., USD to EUR).
+Create a program that formats a user-provided email address into different parts (username, domain) and validates its structure.
+Write a program that generates a username based on user input (e.g., first name, last name, favorite number) and ensures it meets certain criteria.
