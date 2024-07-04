@@ -1,0 +1,21 @@
+
+• print(): Display text or Variables.
+• zip(): Pair elements from multiple iterables.
+• sum(): Calculate sum of elements.
+• min(): Find minimum value.
+• max(): Find maximum value.
+• len(): Get length of an object.
+• input(): Receive user input.
+• range(): Generate a sequence.
+• sort(): Sort elements in place.
+• join(): Combine elements into a string.
+• split(): Split a string.
+• append(): Add to a list.
+• while loop: Execute while condition is true.
+• for loop: Iterate over elements.
+• if....else: Conditional execution.
+• dict(): Create a dictionary.
+• list(): Create a list.
+• float(): Convert to float.
+• int(): Convert to integer.
+• str(): Convert to string.

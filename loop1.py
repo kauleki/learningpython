@@ -24,8 +24,4 @@
 # name = input ("Enter a Name : ")
 # for _ in range(1000):
 #     print(name)
-name = input("Enter Your Name : ")
-index = 0
-while index <= 1000:
-    print(name)
-    index = index+1
+
